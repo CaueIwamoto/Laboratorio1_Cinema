@@ -1,1 +1,4 @@
-# Projeto 1, laboratórios de Modelagem de Software Orientada a Objetos
+# Projeto 1 de laboratórios de Modelagem de Software Orientada a Objetos
+
+Alunos:
+- Cau
