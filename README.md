@@ -1,2 +1,1 @@
-# ProjModelagemDeSoftware
-Laboratórios 1 da matéria Modelagem de Software Orientada a Objetos
+# Projeto 1, laboratórios de Modelagem de Software Orientada a Objetos
