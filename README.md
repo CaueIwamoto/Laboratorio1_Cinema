@@ -5,7 +5,7 @@ Será criado e desenvolvido diversos diagramas para uma rede de cinemas que, por
 Laboratório 1 da disciplina Modelagem de Software Orientado a Objetos. 
 
 
-## Alunos:
+## Alunos 👥:
 - Cauê Iwamoto Meira, R.A: 22.221.039-5
 - Gabriel Machado da Silva, R.A: 22.123.005-5
 - Hanna de Oliveira Melo, R.A: 22.223.002-1
